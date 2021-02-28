@@ -1,13 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
-<<<<<<< HEAD
   <artifactId>Ravi__Demo</artifactId>
-  <version>1.01-RELEASE</version>
-=======
-  <artifactId>Ravi_Demo</artifactId>
-  <version>1.01-SNAPSHOT</version>
->>>>>>> 30f9623f73acab2dffcab97e43fb9a7055adb97e
+  <version>1.01-RELEASE</version
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
